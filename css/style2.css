@@ -126,6 +126,9 @@ table .name {
   text-align: center;
   width: 8%;
 }
+.notice {
+  font-weight: bold;
+}
 .reply {
   color: white;
   background-color: #c4c8cc;
@@ -135,6 +138,12 @@ table .name {
 .fa-lock {
   color: gray;
   margin: 0 5px 0 5px;
+}
+.hit {
+  color: white;
+  background-color: #48dc6b;
+  margin: 0 5px 0 0;
+  padding: 2px 5px 2px 5px;
 }
 .new {
   color: white;
