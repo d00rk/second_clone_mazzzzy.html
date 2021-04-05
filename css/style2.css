@@ -61,6 +61,12 @@ body {
   font-size: 15px;
   margin-bottom: 15%;
 }
+.side-bar .shopping-cart a:hover {
+  color: black;
+}
+.side-bar .shopping-cart a:focus {
+  color: black;
+}
 .side-bar .menu-2 {
   line-height: 95%;
   font-size: 17px;
