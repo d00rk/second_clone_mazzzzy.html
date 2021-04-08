@@ -78,6 +78,15 @@ body {
   margin-bottom: 10px;
   padding: 0px 30px 5px 30px;
 }
+.board-title .description {
+  font-size: 12px;
+  letter-spacing: 0.5px;
+  margin-top: 30px;
+}
+.description span {
+  margin-right: 15px;
+  margin-left: 15px;
+}
 .new-products {
   display: grid;
   grid-template-columns: 33.3% 1fr 1fr;
